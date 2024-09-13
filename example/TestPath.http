@@ -1,0 +1,4 @@
+// Try to send a request
+// Curl: `curl --request GET --url http://localhost:8000/`
+// or with REST Client VSCode Extension
+GET http://localhost:8000/
