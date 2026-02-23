@@ -6,7 +6,7 @@ replace github.com/owlsome-official/zlogwrap => ../
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.11
-	github.com/owlsome-official/zlogwrap v1.0.6
+	github.com/owlsome-official/zlogwrap v0.0.0
 	github.com/rs/zerolog v1.34.0
 )
 
